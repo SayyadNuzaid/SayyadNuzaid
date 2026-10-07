@@ -20,7 +20,7 @@ My practical toolkit includes **Power BI, Excel, Tally Prime, accounting operati
 - **Other** — MS Office, English & Marathi typing
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+> Dashboard screenshots will be added here once the final project screenshots are uploaded.
 ## Featured Projects
 
 | Project | Focus |

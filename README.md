@@ -18,7 +18,9 @@ My practical toolkit includes **Power BI, Excel, Tally Prime, accounting operati
 - **Tally Prime** — accounting operations and ledger management
 - **Automation** — n8n workflow automation
 - **Other** — MS Office, English & Marathi typing
+## Dashboard Preview
 
+![Dashboard Preview](dashboard-preview.png)
 ## Featured Projects
 
 | Project | Focus |

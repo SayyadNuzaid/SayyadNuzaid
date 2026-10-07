@@ -1,38 +1,51 @@
 # Amazon Sales Dashboard
 
-A Power BI dashboard for analyzing Amazon sales performance across products and time.
+A Power BI sales analytics project designed to evaluate **sales performance, product demand and customer-review activity** across time and product categories.
 
-## Business Objective
+## 🎯 Business Objective
 
-Provide a structured view of sales, product performance, reviews and time-based reporting.
+Build an interactive reporting view that helps identify sales trends, high-performing products and changes in product/review activity over time.
 
-## Key Metrics
+## 📌 Key KPIs
 
 - YTD Sales
 - QTD Sales
 - YTD Products Sold
 - YTD Reviews
 
-## Analysis Areas
+## 🔎 Analysis
 
-- Product category
-- Product description
-- Price
-- Month
-- Quarter
-- Week
+- Sales by product category
+- Product-level performance
+- Product price analysis
+- Monthly, quarterly and weekly trends
+- Product reviews and activity
+- Time-based performance comparison
 
-## Data Model
+## 🧩 Data Model
 
-- Amazon_Data
-- Date Table
+- **Amazon_Data** — primary sales/product dataset
+- **Date Table** — time intelligence and period analysis
 
-## Tools
+## 🛠️ Tools & Skills Demonstrated
 
 - Power BI
+- Data cleaning & transformation
 - Data modeling
+- Time-based analysis
+- Interactive dashboard design
 - Business reporting
 
-## Portfolio Note
+## 💡 Business Value
 
-The documentation reflects the analysis areas and model currently represented in the project. Dashboard screenshots and additional technical documentation can be added as the portfolio is expanded.
+The dashboard converts transactional/product data into an interactive management view, making it easier to monitor sales performance, compare products and identify trends requiring attention.
+
+## 📷 Dashboard Preview
+
+See the main dashboard preview on the portfolio profile.
+
+## 📂 Project File
+
+The Power BI `.pbix` file is available in the repository.
+
+> **Note:** DAX measures and detailed technical documentation will be expanded as the project portfolio develops.

@@ -43,10 +43,10 @@ The dashboard provides a structured view of workforce and attrition patterns so 
 
 ## 📷 Dashboard Preview
 
-See the main dashboard preview on the portfolio profile.
+![HR Analytics Dashboard](hr-dashboard.png)
 
 ## 📂 Project File
 
-The Power BI `.pbix` file is available in the repository.
+[Open / download the Power BI file](HR-Analytics-Dashboard.pbix)
 
 > **Note:** DAX measures and detailed technical documentation will be expanded as the project portfolio develops.

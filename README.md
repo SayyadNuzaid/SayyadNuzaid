@@ -20,10 +20,12 @@ B.Com Accounting & Finance professional with 2 years of accounting and billing e
 ## 📊 Dashboard Preview
 
 ### HR Analytics Dashboard
-![HR Analytics Dashboard](Screenshot%202026-10-07%20121939.png)
+![HR Analytics Dashboard](projects/hr-analytics-dashboard/hr-dashboard.png)
 
 ### Amazon Sales Dashboard
-![Amazon Sales Dashboard](Screenshot%202026-10-07%20122001.png)
+![Amazon Sales Dashboard](projects/amazon-sales-dashboard/amazon-sales-dashboard.png)
+
+> Additional dashboard screenshots will be added as the portfolio is expanded.
 
 ## 📁 Featured Projects
 

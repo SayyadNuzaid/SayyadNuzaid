@@ -42,10 +42,10 @@ The dashboard converts transactional/product data into an interactive management
 
 ## 📷 Dashboard Preview
 
-See the main dashboard preview on the portfolio profile.
+![Amazon Sales Dashboard](amazon-sales-dashboard.png)
 
 ## 📂 Project File
 
-The Power BI `.pbix` file is available in the repository.
+[Open / download the Power BI file](Amazon-Sales-Dashboard.pbix)
 
 > **Note:** DAX measures and detailed technical documentation will be expanded as the project portfolio develops.

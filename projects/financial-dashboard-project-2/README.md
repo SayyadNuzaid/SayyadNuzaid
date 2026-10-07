@@ -35,6 +35,6 @@ The dashboard provides a management-friendly view of profitability and product p
 
 ## 📂 Project File
 
-The Power BI `.pbix` file is available in the repository.
+[Open / download the Power BI file](Profitability-Product-Performance.pbix)
 
 > **Note:** Detailed DAX documentation and additional screenshots will be added as the project is expanded.

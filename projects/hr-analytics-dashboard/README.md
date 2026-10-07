@@ -1,38 +1,52 @@
 # HR Analytics Dashboard
 
-A Power BI dashboard for analyzing workforce, attrition and employee satisfaction.
+A Power BI HR analytics project focused on **workforce composition, employee attrition and job satisfaction**.
 
-## Business Objective
+## 🎯 Business Objective
 
-Provide a structured view of workforce composition, employee attrition and satisfaction across key HR dimensions.
+Create an interactive HR reporting solution that helps identify workforce patterns, attrition levels and employee-satisfaction trends across key employee dimensions.
 
-## Key Metrics
+## 📌 Key KPIs
 
 - Active Employees
 - Employee Count
 - Attrition Count
 - Attrition Rate
 
-## Analysis Areas
+## 🔎 Analysis
 
-- Department
-- Job Role
-- Age Band
-- Gender
-- Education
-- Education Field
-- Job Satisfaction
+- Attrition by department
+- Attrition by job role
+- Age-band analysis
+- Gender distribution
+- Education and education-field analysis
+- Job satisfaction
+- Workforce composition
 
-## Data Model
+## 🧩 Data Model
 
-- Sheet1
+- **Sheet1** — primary employee dataset
 
-## Tools
+## 🛠️ Tools & Skills Demonstrated
 
 - Power BI
-- HR analytics
+- Data cleaning & transformation
 - Data modeling
+- HR analytics
+- KPI development
+- Interactive dashboard design
+- Business reporting
 
-## Portfolio Note
+## 💡 Business Value
 
-The documentation reflects the analysis areas and model currently represented in the project. Dashboard screenshots and additional technical documentation can be added as the portfolio is expanded.
+The dashboard provides a structured view of workforce and attrition patterns so HR teams can identify areas with higher employee turnover and investigate potential workforce or satisfaction issues.
+
+## 📷 Dashboard Preview
+
+See the main dashboard preview on the portfolio profile.
+
+## 📂 Project File
+
+The Power BI `.pbix` file is available in the repository.
+
+> **Note:** DAX measures and detailed technical documentation will be expanded as the project portfolio develops.

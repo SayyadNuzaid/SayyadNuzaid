@@ -1,34 +1,41 @@
 # Financial Sales Performance Dashboard
 
-A Power BI dashboard focused on financial and sales performance.
+A Power BI financial reporting project focused on **sales, gross sales and profitability analysis** across products, countries and time periods.
 
-## Business Objective
+## 🎯 Business Objective
 
-Analyze sales and profitability across products, countries and time periods.
+Provide an interactive financial-performance view for comparing sales and profit across products, markets and reporting periods.
 
-## Analysis Areas
+## 📌 Key Analysis Areas
 
 - Sales
 - Gross Sales
 - Profit
 - Manufacturing Price
-- Product
-- Country
-- Year
-- Quarter
-- Month
-- Day
+- Product performance
+- Country performance
+- Year, quarter and month trends
+- Daily performance
 
-## Data Model
+## 🧩 Data Model
 
-- financials
+- **financials** — primary financial dataset
 
-## Tools
+## 🛠️ Tools & Skills Demonstrated
 
 - Power BI
 - Financial reporting
 - Data modeling
+- KPI analysis
+- Time-based reporting
+- Interactive visualization
 
-## Portfolio Note
+## 💡 Business Value
 
-The documentation reflects the analysis areas and model currently represented in the project. Dashboard screenshots and additional technical documentation can be added as the portfolio is expanded.
+The dashboard helps compare revenue and profitability across products and markets, supporting performance monitoring and management reporting.
+
+## 📂 Project File
+
+The Power BI `.pbix` file is available in the repository.
+
+> **Note:** Detailed DAX documentation and additional screenshots will be added as the project is expanded.

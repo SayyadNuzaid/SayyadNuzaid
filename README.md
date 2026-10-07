@@ -2,26 +2,30 @@
 
 **B.Com Accounting & Finance | Power BI & Data Analytics | Accounting Professional**
 
-I am a B.Com Accounting & Finance professional with 2 years of accounting and billing experience, building a career at the intersection of **accounting, business reporting, and data analytics**.
+B.Com Accounting & Finance professional with 2 years of accounting and billing experience, combining **accounting knowledge with Power BI and business reporting** to turn data into clear, decision-oriented insights.
 
-My practical toolkit includes **Power BI, Excel, Tally Prime, accounting operations, and workflow automation**. I use this portfolio to document dashboard projects and demonstrate how business data can be turned into clear, decision-oriented reports.
-
-## Career Focus
+## 🎯 Career Focus
 
 **Target roles:** Power BI Analyst | Data Analyst | MIS / Reporting Executive | Accounts & MIS
 
-## Core Skills
+## 🛠️ Core Skills
 
-- **Power BI** — dashboards, business reporting, data modeling
+- **Power BI** — dashboards, data modeling, DAX, business reporting
 - **Excel** — VLOOKUP, Pivot Tables, data analysis
 - **Accounting** — AP, AR, bookkeeping, bank reconciliation, financial reporting
 - **Tally Prime** — accounting operations and ledger management
 - **Automation** — n8n workflow automation
 - **Other** — MS Office, English & Marathi typing
-## Dashboard Preview
 
-> Dashboard screenshots will be added here once the final project screenshots are uploaded.
-## Featured Projects
+## 📊 Dashboard Preview
+
+### HR Analytics Dashboard
+![HR Analytics Dashboard](Screenshot%202026-10-07%20121939.png)
+
+### Amazon Sales Dashboard
+![Amazon Sales Dashboard](Screenshot%202026-10-07%20122001.png)
+
+## 📁 Featured Projects
 
 | Project | Focus |
 |---|---|
@@ -30,16 +34,14 @@ My practical toolkit includes **Power BI, Excel, Tally Prime, accounting operati
 | [Financial Sales Performance Dashboard](./projects/financial-dashboard-project-1) | Sales, gross sales, profit, product, country and time analysis |
 | [Profitability & Product Performance Dashboard](./projects/financial-dashboard-project-2) | Profit, units sold, sales and product/country analysis |
 
-> **Portfolio note:** Dashboard screenshots and additional project assets will be added as the portfolio develops.
-
-## Experience
+## 💼 Experience
 
 - **Billing Executive — Cotton Corporation of India (CCI)** — Nov 2024 to Mar 2026
 - **Junior Accountant — Bhumi Cottex Industry Pvt. Ltd.** — Jan 2024 to Nov 2024
 
 Experience includes billing and accounting operations, financial data entry, ledger maintenance, bank reconciliation, vendor invoices, accounts receivable, reporting, GST/TDS compliance support, and digital workflow improvements.
 
-## Education & Certifications
+## 🎓 Education & Certifications
 
 - **B.Com — Accounting & Finance** — 63.7%
 - Tally ERP 9 / Tally Prime Certification
@@ -47,7 +49,7 @@ Experience includes billing and accounting operations, financial data entry, led
 - English & Marathi Speed Typing
 - Introduction to Career Skills in Data Analytics
 
-## Portfolio & Contact
+## 🔗 Portfolio & Contact
 
 - [LinkedIn](https://www.linkedin.com/in/sayyad-nuzaid-61706b279)
 - [Power BI Analytics Portfolio](https://nuzaidanalytics.netlify.app/)
